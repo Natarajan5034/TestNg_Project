@@ -25,6 +25,9 @@ public class Execution extends BaseClass {
 		boolean contains = title.contains("Adactin");
 		Assert.assertTrue(contains);
 		System.out.println("Title is verfied");
+		System.out.println("Text Module");
+		System.out.println("Test2 data is entered");
+		System.out.println("Test2 data is verified");
 	}
 	@Test
 	public void tc2() throws IOException
