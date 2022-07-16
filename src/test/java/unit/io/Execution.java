@@ -28,6 +28,9 @@ public class Execution extends BaseClass {
 		System.out.println("login module");
 		System.out.println("test1 data is entered");
 		System.out.println("test1 data is verified");
+		System.out.println("Text Module");
+		System.out.println("Test2 data is entered");
+		System.out.println("Test2 data is verified");
 	}
 	@Test
 	public void tc2() throws IOException
